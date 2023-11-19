@@ -1,0 +1,58 @@
+/* Write your CSS here */
+.main-bg {
+  background-color: #ffd569;
+  padding: 40px;
+  /* display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center; */
+}
+
+.card {
+  background-color: white;
+  border-radius: 10px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+
+.mango-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+
+.banana-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+
+.images-card {
+  display: flex;
+}
+
+img {
+  height: 300px;
+  width: 400px;
+}
+
+button {
+  cursor: pointer;
+  background-color: #007bff;
+  outline: none;
+  border: none;
+  color: white;
+  margin: 10px;
+  padding: 10px;
+  height: 50px;
+  width: 90px;
+}
+
+span {
+  color: #ffd569;
+}
